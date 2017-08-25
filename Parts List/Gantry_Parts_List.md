@@ -1,0 +1,10 @@
+Item,	Item, Description,	URL,	Quantity, 	Unit Price,	Total,
+C-Beam Linear Actuator Bundle	1000mm, Include Motor,	http://openbuildspartstore.com/c-beam-linear-actuator-bundle/ ,	3,	139.95,	419.85,
+V-Slot Linear Rail 20mm x 60mm	20mm x 60mm, 1000mm, Silver	http://openbuildspartstore.com/v-slot-linear-rail/ ,	8,	17,	136,
+V-Slot Linear Rail 20mm x 80mm	20mm x 80mm, 1000mm, Silver	http://openbuildspartstore.com/v-slot-linear-rail/ ,	1,	22,	22,
+Black Angle Corner Connector	Corner Connectors,	http://openbuildspartstore.com/black-angle-corner-connector/ ,	50,	2.75,	137.5,
+Cube Corner Connector	3-Way Corner Connector,	http://openbuildspartstore.com/cube-corner-connector/ ,	15, 3.25,	48.75,
+Tee Nuts (25 Pack),	Tee Nuts,	http://openbuildspartstore.com/tee-nuts-25-pack/ ,	5,	4.95,	24.75,
+Smothieboard 4x	Control Board,	https://shop.uberclock.com/collections/smoothie/products/smoothieboard-4x ,	1,	129.95,	129.95,
+Low Profile M5 Screws	8mm M5 Screw,	http://openbuildspartstore.com/low-profile-screws-m5/ ,	4,	3 , 12,
+12V/29A Meanwell Power Supply	Power, supply for motors/ logic board,	http://openbuildspartstore.com/12v-29a-meanwell-power-supply/ ,	1,	47.95,	47.95
