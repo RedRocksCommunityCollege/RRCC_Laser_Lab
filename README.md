@@ -2,10 +2,10 @@
 
 **Background Information** : Over the fall of 2017 the students of Red Rocks Community College designed and build an 80 watt computer controlled laser cutter. The process took around 12 weeks working 4 to 8 hours a week. The parts were ordered from:
 
-* https://openbuilds.com/
-* http://www.lightobject.com/
-* https://www.homedepot.com/
-* https://www.amazon.com/
+* Gantry parts: https://openbuilds.com/
+* Laser parts: http://www.lightobject.com/
+* Building table parts: https://www.homedepot.com/
+* Other: https://www.amazon.com/
 
 ***
 
@@ -20,3 +20,7 @@ The project timeline and To Do can be found here: [Timeline and ToDo](https://gi
 * **Question** is for elements that need leadership approval. 
 
 ***
+
+The tube that we are using is a [W2 Reci laser tube](http://www.recilaser.com/en/index.php?m=&c=Index&a=show&catid=7&id=66) that has a wattage of 90. We are using an [800 Watt chiller](http://www.lightobject.com/LightObject-800W-Water-Chiller-for-CO2-Laser-Machine-AC110V-60Hz-P996.aspx) and a [Smoothieboard v1](http://smoothieware.org/smoothieboard) control board. 
+
+
