@@ -26,3 +26,4 @@ The tube that we are using is a [W2 Reci laser tube](http://www.recilaser.com/en
 <img src="http://www.recilaser.com/en/Uploads/Content/2017-05-11/59146db5b570d.jpg" width="200"> <img src="http://www.lightobject.com/Assets/ProductImages/800wOrangeChiller.jpg" width="200"> <img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/smoothieboard-fritzing.png" width="200">
 
 ***
+The main goal of the laser cutter is to be a tool for student working in the lab as well as a tool for students to use for projects in classes. The cutter will be able to cut wood and leather and engrave metal. We are also hoping to be able to...
