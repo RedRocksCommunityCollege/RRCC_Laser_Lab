@@ -27,8 +27,9 @@ The tube that we are using is a [W2 Reci laser tube](http://www.recilaser.com/en
 
 We are using an [800 Watt chiller](http://www.lightobject.com/LightObject-800W-Water-Chiller-for-CO2-Laser-Machine-AC110V-60Hz-P996.aspx)
 
-
+![Chiller](http://www.lightobject.com/Assets/ProductImages/800wOrangeChiller.jpg)
 
 and a [Smoothieboard v1](http://smoothieware.org/smoothieboard) control board. 
 
+![Control board]()
 
