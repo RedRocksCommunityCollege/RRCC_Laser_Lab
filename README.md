@@ -21,5 +21,15 @@ The project timeline and To Do can be found here: [Timeline and ToDo](https://gi
 
 ***
 
-The tube that we are using is a [W2 Reci laser tube](http://www.recilaser.com/en/index.php?m=&c=Index&a=show&catid=7&id=66) that has a wattage of 90. <img src="http://www.recilaser.com/en/Uploads/Content/2017-05-11/59146db5b570d.jpg" width="200"> We are using an [800 Watt chiller](http://www.lightobject.com/LightObject-800W-Water-Chiller-for-CO2-Laser-Machine-AC110V-60Hz-P996.aspx) ![Chiller](http://www.lightobject.com/Assets/ProductImages/800wOrangeChiller.jpg =100x20) and a [Smoothieboard v1](http://smoothieware.org/smoothieboard) control board. ![Control board](https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/smoothieboard-fritzing.png =100x20)
+The tube that we are using is a [W2 Reci laser tube](http://www.recilaser.com/en/index.php?m=&c=Index&a=show&catid=7&id=66) that has a wattage of 90.
+
+<img src="http://www.recilaser.com/en/Uploads/Content/2017-05-11/59146db5b570d.jpg" width="200">
+
+We are using an [800 Watt chiller](http://www.lightobject.com/LightObject-800W-Water-Chiller-for-CO2-Laser-Machine-AC110V-60Hz-P996.aspx) 
+
+<img src="http://www.lightobject.com/Assets/ProductImages/800wOrangeChiller.jpg" width="200">
+
+and a [Smoothieboard v1](http://smoothieware.org/smoothieboard) control board. 
+
+<img src="https://raw.githubusercontent.com/Bouni/smoothieboard-graphics/master/smoothieboard-fritzing.png" width="200">
 
