@@ -9,7 +9,7 @@
 
 ***
 
-The parts list can be found here: [Parts List](https://github.com/RedRocksCommunityCollege/RRCC_Laser_Lab/tree/master/Parts%20List). We have included both an Excel and .csv file for both the gantry and laser parts list. 
+The parts list can be found here: [Parts List](https://github.com/RedRocksCommunityCollege/RRCC_Laser_Lab/tree/master/Parts_List). We have included both an Excel and .csv file for both the gantry and laser parts list. 
 
 The image files can be found here: [Laser build pictures](https://github.com/RedRocksCommunityCollege/RRCC_Laser_Lab/tree/master/Laser_Build_Pictures). The images have a basic description in the file name. They are in chronological order and images that have a measurement in it should have a close-up that follows the wide image.  
 
